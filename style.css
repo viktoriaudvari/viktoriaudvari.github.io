@@ -1,0 +1,118 @@
+header {
+  margin: auto;
+  width: 1278px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+main {
+  margin: auto;
+  width: 720px;
+  font-family: 'Open Sans', sans-serif;
+  
+  line-height: 30px;
+}
+
+
+img {
+  border-top: solid 5px black;
+  width: 1278px;
+}
+
+#kep {
+  position: relative;
+  align-item: center;
+}
+
+.cim {
+  margin: auto;
+  align-item: center;
+  
+}
+
+.anakin {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  position: absolute;
+  top: 260px;
+  left: 290px;
+}
+
+.name {
+  font-size: 28px;
+  font-weight: bold;
+  position: absolute;
+  top: 210px;
+  left: 290px;
+}
+
+section {
+  /*font-size: px;*/
+}
+
+em {
+  font-weight: bold;
+  padding-right: 3px;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 15px;
+}
+
+.idezet {
+  background-color: #343434;
+  margin: auto;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 60px;
+  padding: 5px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+  position: relative;
+}
+
+#idezojel {
+  position: absolute;
+  top: 2px;
+  left: 10px;
+  margin: 0px;
+  font-size: 60px;
+  font-weight: bold;
+  display: inline;
+}
+
+h3 {
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+h5 {
+  font-weight: bold; 
+  line-height: 10px;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 15px;
+}
+
+hr {
+  margin-top: 50px;
+  border: 2px solid black;
+  margin-left: 0px;
+}
